@@ -1,0 +1,9 @@
+Package: com.icraze.igcopycomments
+Name: IGCopyComments
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hold down on Instagram comments to copy them!
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
